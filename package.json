@@ -32,7 +32,7 @@
     "@rollup/plugin-typescript": "^12.1.1",
     "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.9",
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.10.3",
     "chai": "^5.1.2",
     "cross-env": "^7.0.3",
     "eslint": "^9.15.0",
